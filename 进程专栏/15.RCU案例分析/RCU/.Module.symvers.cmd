@@ -1,0 +1,1 @@
+savedcmd_/root/linux-5.6.18/test_myself/RCU/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /root/linux-5.6.18/test_myself/RCU/Module.symvers -T /root/linux-5.6.18/test_myself/RCU/modules.order -i Module.symvers -e 
